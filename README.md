@@ -1,10 +1,10 @@
 ### Hola, sabías que tengo una increíble página con documentación muy informativa? está en: [aqui 👀](https://blog-robertorodriguez.surge.sh)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertorodriguez98&exclude_repo=robertorodriguez98.github.io,fuente_blog&theme=vue)
-
 ![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=robertorodriguez98&show_icons=true&theme=vue)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robertorodriguez98&theme=vue&date_format=j%20M%5B%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertorodriguez98&exclude_repo=robertorodriguez98.github.io,fuente_blog&theme=vue)
 <!--
 **robertorodriguez98/robertorodriguez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
