@@ -1,10 +1,14 @@
 ### ¡Hola!, tengo una página de documentación; es la [siguiente 👀](https://blog-robertorodriguez.surge.sh/)
 
-![Roberto's github stats](https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=robertorodriguez98&show_icons=true&theme=vue)
+## Datos sobre mi GitHub
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robertorodriguez98&theme=vue&date_format=j%20M%5B%20Y%5D)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=robertorodriguez98&theme=flat&column=4&locale=es)
 
-![Top Langs](https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=robertorodriguez98&exclude_repo=robertorodriguez98.github.io,fuente_blog,ottershell,tarea-pagina-msx,libreria_flask,proyecto_html5css&theme=vue&layout=compact)
+![Roberto's github stats](https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=robertorodriguez98&show_icons=true&theme=vue&locale=es)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robertorodriguez98&theme=vue&locale=es&date_format=j%20M%5B%20Y%5D)
+
+![Top Langs](https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=robertorodriguez98&exclude_repo=robertorodriguez98.github.io,fuente_blog,ottershell,tarea-pagina-msx,libreria_flask,proyecto_html5css&theme=vue&layout=compact&locale=es)
 <!--
 **robertorodriguez98/robertorodriguez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
