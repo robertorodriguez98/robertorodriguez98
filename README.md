@@ -1,7 +1,7 @@
 Datos sobre mi cuenta de github:
 <div>
   <a href="https://github.com/robertorodriguez98">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertorodriguez98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&locale=es"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertorodriguez98&show_icons=true&theme=dracula&include_all_commits=true&border_radius=8&hide_border=true&locale=es"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertorodriguez98&layout=compact&langs_count=7&theme=dracula&border_radius=8&hide_border=true&locale=es"/>
 </div>
 <div>
